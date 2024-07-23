@@ -15,3 +15,5 @@
 - Open WebUI - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - [![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)](https://github.com/open-webui/open-webui)
 
 ---
+## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Jingkou1012/LLM-Tool&type=Date)](https://star-history.com/#Jingkou1012/LLM-Tool&Date)
