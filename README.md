@@ -1,3 +1,5 @@
+## Fine-Tuning
+- PEFT - [![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/peft?style=social)](https://github.com/huggingface/peft)
 ## 🛠️ Deployment
 - Llama Recipes - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods - [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-recipes?style=social)](https://github.com/meta-llama/llama-recipes)
 - DeepSpeed - An optimization library that makes distributed training and inference easy, efficient, and effective. - [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social)](https://github.com/microsoft/DeepSpeed)
