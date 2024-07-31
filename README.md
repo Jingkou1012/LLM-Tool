@@ -6,6 +6,9 @@
 ## Fine-Tuning
 - PEFT - [![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/peft?style=social)](https://github.com/huggingface/peft)
 ---
+## Quantization
+- llama.cpp - LLM inference in C/C++ - [![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)](https://github.com/ggerganov/llama.cpp)
+---
 ## RAG
 - RAGFlow - RAGFlow is an open-source RAG engine based on deep document understanding. [![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social)](https://github.com/infiniflow/ragflow)
 - GraphRAG - A modular graph-based Retrieval-Augmented Generation (RAG) system - [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)](https://github.com/microsoft/graphrag)
@@ -17,7 +20,6 @@
 - Evals - A framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks - [![GitHub Repo stars](https://img.shields.io/github/stars/openai/evals?style=social)](https://github.com/openai/evals)
 - Dify - Dify is an open-source LLM app development platform. - [![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)](https://github.com/langgenius/dify)
 - vLLM - A high-throughput and memory-efficient inference and serving engine for LLMs - [![GitHub Repo stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm)
-- llama.cpp - LLM inference in C/C++ - [![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)](https://github.com/ggerganov/llama.cpp)
 - LLaMA-Factory - A WebUI for Efficient Fine-Tuning of 100+ LLMs - [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social)](https://github.com/hiyouga/LLaMA-Factory)
 - LangChain - Build context-aware reasoning applications - [![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain)
 - Transformers - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. - [![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social)](https://github.com/huggingface/transformers)
