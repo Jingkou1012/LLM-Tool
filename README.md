@@ -1,5 +1,6 @@
 ## Tutorial
 - Stanford's Alpaca - [![GitHub Repo stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social)](https://github.com/tatsu-lab/stanford_alpaca)
+- LLM101n - [![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/LLM101n?style=social)](https://github.com/karpathy/LLM101n)
 ---
 ## Fine-Tuning
 - PEFT - [![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/peft?style=social)](https://github.com/huggingface/peft)
