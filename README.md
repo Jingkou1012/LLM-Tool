@@ -24,6 +24,7 @@
 - GPT4All - [![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)](https://github.com/nomic-ai/gpt4all)
 - Ollama - Get up and running with large language models - [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama)
 - Open WebUI - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - [![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)](https://github.com/open-webui/open-webui)
+- GPT Academic - [![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)](https://github.com/binary-husky/gpt_academic)
 --- 
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Jingkou1012/LLM-Tool&type=Date)](https://star-history.com/#Jingkou1012/LLM-Tool&Date)
