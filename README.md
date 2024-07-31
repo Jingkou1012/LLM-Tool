@@ -1,5 +1,4 @@
 ## 🛠️ Deployment
-
 - Llama Recipes - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods - [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-recipes?style=social)](https://github.com/meta-llama/llama-recipes)
 - DeepSpeed - An optimization library that makes distributed training and inference easy, efficient, and effective. - [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social)](https://github.com/microsoft/DeepSpeed)
 - unsloth - Finetune Llama 3, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory - [![GitHub Repo stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
