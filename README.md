@@ -34,6 +34,7 @@
 - Colossal-AI - Making large AI models cheaper, faster and more accessible - [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI)
 ---
 ## Deployment
+- Flowise - [![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)](https://github.com/FlowiseAI/Flowise)
 - GPT4All - [![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)](https://github.com/nomic-ai/gpt4all)
 - Ollama - Get up and running with large language models - [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama)
 - Open WebUI - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - [![GitHub Repo stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)](https://github.com/open-webui/open-webui)
