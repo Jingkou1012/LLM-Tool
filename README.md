@@ -4,6 +4,7 @@
 
 ---
 ## Tutorial
+- nanoGPT - [![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social)](https://github.com/karpathy/nanoGPT)
 - Stanford's Alpaca - [![GitHub Repo stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social)](https://github.com/tatsu-lab/stanford_alpaca)
 - LLM101n - [![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/LLM101n?style=social)](https://github.com/karpathy/LLM101n)
 - LLMs from Scratch - [![GitHub Repo stars](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=social)](https://github.com/rasbt/LLMs-from-scratch)
