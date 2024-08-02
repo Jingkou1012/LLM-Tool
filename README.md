@@ -19,6 +19,7 @@
 ## RAG
 - RAGFlow - RAGFlow is an open-source RAG engine based on deep document understanding. [![GitHub Repo stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=social)](https://github.com/infiniflow/ragflow)
 - GraphRAG - A modular graph-based Retrieval-Augmented Generation (RAG) system - [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/graphrag?style=social)](https://github.com/microsoft/graphrag)
+- Langflow - A visual framework for building multi-agent and RAG applications. - [![GitHub Repo stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social)](https://github.com/langflow-ai/langflow)
 ## TBD
 - Llama Recipes - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods - [![GitHub Repo stars](https://img.shields.io/github/stars/meta-llama/llama-recipes?style=social)](https://github.com/meta-llama/llama-recipes)
 - LlamaIndex - [![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social)](https://github.com/run-llama/llama_index)
