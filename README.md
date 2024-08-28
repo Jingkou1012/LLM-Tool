@@ -32,6 +32,7 @@
 - LangChain - Build context-aware reasoning applications - [![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social)](https://github.com/langchain-ai/langchain)
 - Transformers - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. - [![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social)](https://github.com/huggingface/transformers)
 - Colossal-AI - Making large AI models cheaper, faster and more accessible - [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI)
+- AutoGPT - [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)](https://github.com/Significant-Gravitas/AutoGPT)
 ---
 ## Deployment
 - Flowise - [![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)](https://github.com/FlowiseAI/Flowise)
